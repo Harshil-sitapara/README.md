@@ -1,6 +1,5 @@
 <h1>Hi there👋</h1>
 
-<p><b>I hope you're having a wonderful day!</b></br> Allow me to introduce myself! Parth is my name. I am a Full Stack Developer with five years of expertise in software development and an MTech in computer science. My primary responsibility is to complete frontend tasks in ReactJs, NextJs, and React-native for mobile. And I primarily use NodeJs, NestJs, and AWS for backend development and deployment.</p>
 <p><b>I hope you're having a wonderful day!</b></br>I'm Harshil, a seasoned MERN stack developer with a solid 1.5 years of hands-on experience in the realm of software development. I specialize in building robust and scalable web applications with a focus on both frontend and backend development.</p>
 <hr/>
 <h3>💼 My Skills:</h3>
