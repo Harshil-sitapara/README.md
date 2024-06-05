@@ -34,6 +34,8 @@
  width="24px" height="24px"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/asana.svg"
  width="24px" height="24px"/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/jira.svg"
+ width="24px" height="24px"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/trello.svg"
  width="24px" height="24px"/>
         </p>
