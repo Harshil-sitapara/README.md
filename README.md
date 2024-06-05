@@ -26,6 +26,8 @@
     <img src="https://github.com/get-icon/geticon/raw/master/icons/socket.io.svg" width="24px" height="24px" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/postman.svg"
  width="24px" height="24px" />
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/swagger.svg"
+ width="24px" height="24px" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/vercel-logo.svg"
  width="24px" height="24px"/>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/netlify.svg"
