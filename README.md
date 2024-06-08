@@ -23,6 +23,7 @@
           <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
     <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" width="24px" height="24px" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" width="24px" height="24px" />
+     <img src="https://github.com/get-icon/geticon/raw/master/icons/aws-s3.svg" width="24px" height="24px" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/socket.io.svg" width="24px" height="24px" />
     <img src="https://github.com/get-icon/geticon/raw/master/icons/postman.svg"
  width="24px" height="24px" />
